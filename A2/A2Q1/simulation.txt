@@ -1,0 +1,10 @@
+mean of theta1Samples:  5.000162 
+variance of theta1Samples:  0.08273941 
+theoretical mean obtained from E(theta1):  5 
+theoretical variance obtained from Var(theta1):  0.08333333 
+====== 
+mean of theta2Samples:  4.951235 
+variance of theta2Samples:  0.002387045 
+====== 
+approximation of mse(theta1):  0.08273116 
+approximation of mse(theta2):  0.004764837 
